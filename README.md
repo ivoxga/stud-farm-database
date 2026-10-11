@@ -1,7 +1,7 @@
 # Lusitano Stud Farm Database (MySQL)
 
 A relational database that models a stud farm (*coudelaria*) breeding Lusitano horses. It stores each horse with its full **pedigree** (sire and dam), the studs where it was born and where it currently lives, the **competitions** it enters and the **results** it obtains, plus a set of SQL queries that answer practical breeding questions: family trees, relationships between horses, prizes won by stud, and more.
-
+ 
 The model is normalized to **Third Normal Form (3NF)** and uses a self-referencing table to represent genealogy.
 
 > Project developed for the course **Data Storage and Access**, BSc in **Electrical and Computer Engineering**, **Instituto Politécnico do Cávado e Ave (IPCA)**, **2nd year**.
