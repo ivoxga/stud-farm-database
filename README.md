@@ -6,7 +6,7 @@ The model is normalized to **Third Normal Form (3NF)** and uses a self-referenci
 
 > Project developed for the course **Data Storage and Access**, BSc in **Electrical and Computer Engineering**, **Instituto Politécnico do Cávado e Ave (IPCA)**, **2nd year**. 
 
----
+--- 
 
 ## Repository structure
 
